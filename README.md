@@ -1,6 +1,10 @@
 
 > このページを開く [https://ryott2.github.io/legocrane-sbit-receiver/](https://ryott2.github.io/legocrane-sbit-receiver/)
 
+二つのmicrobitを使い、一つはコントローラー 、もう一つは受信側として４つのモータを動かし、クレーンを操作する。
+このレポジトリーは受信側のmicrobitに搭載するアプリ。
+コントローラー側は[こちら](https://ryott2.github.io/legocrane-sbit-controler/)
+
 ## 拡張機能として使用
 
 このリポジトリは、MakeCode で **拡張機能** として追加できます。
